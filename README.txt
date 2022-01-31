@@ -34,7 +34,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### What I learned
 
-Basic layout on the screen, as well as using em units for padding / margin etc.
+A simplified CSS reset.
+Basic layout on the screen, as well as using rem units for padding / margin etc.
 
 ## Author
 
