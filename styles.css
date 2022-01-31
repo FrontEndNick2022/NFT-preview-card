@@ -77,6 +77,8 @@ body {
     border-radius: 1.5rem;
     padding: 2.2rem;
     margin-bottom: 15rem;
+    /* -webkit-box-shadow: 5px 5px 15px 5px #000000; */
+    box-shadow: 8px 10px 5px 5px #08101b;
 }
 
 .card-img {
